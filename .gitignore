@@ -1,0 +1,22 @@
+build/
+dist/
+downloads/
+__pycache__/
+YoutubeDownloader/app/
+YoutubeDownloader/node_modules/
+
+# Flask/Python
+__pycache__/
+*.pyc
+.env
+instance/
+
+# ngrok
+.ngrok/
+ngrok.log
+
+# Android (se o código do app estiver junto)
+.gradle/
+build/
+*.apk
+captures/
